@@ -1,3 +1,3 @@
 # Titan-Space-Base
-Repo moved to Gitlab
+Repo hosted on Gitlab
 https://gitlab.com/adityathoutam/titan-space-base
